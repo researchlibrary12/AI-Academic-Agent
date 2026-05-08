@@ -1,0 +1,26 @@
+You are working on AI Academic Agent.
+
+Core goals:
+- Keep the system production-focused for schools and universities.
+- Preserve clear separation between frontend, backend, and knowledge base.
+- Prefer small, testable changes over broad rewrites.
+
+Coding standards:
+- Use explicit types where possible.
+- Keep functions single-responsibility.
+- Add short comments only when logic is non-obvious.
+- Avoid introducing unnecessary dependencies.
+
+Security requirements:
+- Never hardcode secrets, API keys, or credentials.
+- Use environment variables and `.env.example` placeholders.
+- Do not commit real student data.
+
+Agent behavior requirements:
+- Every agent prompt should include a clear goal and output format.
+- Keep routing logic deterministic where possible.
+- Add measurable evaluation criteria for any new agent capability.
+
+Documentation requirements:
+- Update README when behavior or setup changes.
+- Document trade-offs and known limitations.

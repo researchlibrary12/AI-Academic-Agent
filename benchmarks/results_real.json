@@ -1,0 +1,48 @@
+{
+  "must_academic_agent": [
+    {
+      "test_id": "T1",
+      "selected_agent": "exam_preparation_agent",
+      "latency_ms": 23670.67,
+      "relevance": 5.0,
+      "accuracy": 4.8,
+      "actionability": 4.8,
+      "clarity": 5.0,
+      "latency": 1.0,
+      "response_excerpt": "Here\u2019s a focused **5-day Linear Algebra revision plan** for an exam next week.\n\n## Day 1: Foundations & Systems of Equations\n**Goals**\n- Review vectors, matrices, and matrix operations.\n- Master solving systems of linear equations.\n\n**Topics**\n- Matrix addition, multiplication, transpose\n- Row operations and row echelon form\n- Gaussian elimination\n- Consistency and solution types: no solution, one"
+    },
+    {
+      "test_id": "T2",
+      "selected_agent": "exam_preparation_agent",
+      "latency_ms": 7288.56,
+      "relevance": 5.0,
+      "accuracy": 5.0,
+      "actionability": 4.6,
+      "clarity": 5.0,
+      "latency": 2.0,
+      "response_excerpt": "Derivatives show **how fast something is changing**.\n\nThink of a derivative as the **slope of a curve at one point**.\n\n## Simple steps for finding a derivative\n\n### 1. Identify the function\nExample:  \n\\[\nf(x)=x^2\n\\]\n\n### 2. Use the power rule\nThe power rule says:\n\n\\[\n\\frac{d}{dx}(x^n)=nx^{n-1}\n\\]\n\nThis means:\n\n- Bring the power down in front\n- Subtract 1 from the power\n\n### 3. Apply it\nFor:\n\n\\[\nf("
+    },
+    {
+      "test_id": "T3",
+      "selected_agent": "quiz_generation_agent",
+      "latency_ms": 20106.1,
+      "relevance": 5.0,
+      "accuracy": 4.8,
+      "actionability": 5.0,
+      "clarity": 5.0,
+      "latency": 1.0,
+      "response_excerpt": "## Database Normalization Quiz (10 Questions)\n\n### Questions\n\n1. **What is the main goal of database normalization?**  \n   A. To make queries slower  \n   B. To reduce data redundancy and improve data integrity  \n   C. To store all data in one table  \n   D. To remove primary keys  \n\n2. **Which normal form requires that each table cell contains only atomic (indivisible) values?**  \n   A. 1NF  \n   B."
+    },
+    {
+      "test_id": "T4",
+      "selected_agent": "academic_calendar_agent",
+      "latency_ms": 14442.5,
+      "relevance": 3.2,
+      "accuracy": 4.3,
+      "actionability": 3.8,
+      "clarity": 4.7,
+      "latency": 1.0,
+      "response_excerpt": "I don\u2019t have any course calendar or deadline entries available in the context, so I can\u2019t reliably list this week\u2019s actual deadlines.\n\nFor this week, based on today\u2019s date, the remaining study window is:\n\n**Friday 8 May \u2013 Sunday 10 May 2026**\n\n## Deadlines found\n**No deadlines available from the current context.**  \nIf you paste your deadlines or module calendar, I can build a precise schedule aro"
+    }
+  ]
+}

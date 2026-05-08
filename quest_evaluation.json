@@ -1,0 +1,89 @@
+{
+  "problem_clarity": {
+    "summary": "The agent is specialized for academic performance support: it identifies weak topics from assessment history, explains risk drivers, generates study plans and exam preparation schedules, creates practice quizzes, and provides retrieval-augmented tutoring via an in-app chat.",
+    "what_it_does": [
+      "Personalized risk analysis by topic (based on recent results/history).",
+      "Weekly study planning (focuses on weak/high-risk topics first).",
+      "Exam timetable lookup plus day-by-day prep plan generation.",
+      "Smart practice quiz generation with auto-marking and mastery/recommendation outputs.",
+      "RAG chat support that answers questions using stored knowledge base content and provides citations."
+    ],
+    "who_it_is_for": "Students (and, by extension, institutions/lecturers) who need actionable study guidance rather than generic answers."
+  },
+  "priority_reasoning": {
+    "primary_priority": "Academic underperformance intervention and measurable support pathways.",
+    "why_it_is_priority_1": [
+      "Academic gaps compound over time; early guidance has outsized impact on outcomes and retention.",
+      "The domain is naturally KPI-driven (grades, completion, risk level), enabling evaluation and iterative improvement.",
+      "The system is built around concrete actions (plans, quizzes, prep schedules), aligning with the urgent needs of exam cycles."
+    ],
+    "tradeoffs": [
+      "Current persistence is optimized for local/demo testing; production durability can be migrated to PostgreSQL later."
+    ]
+  },
+  "ai_leverage_efficiency": {
+    "approach": "Uses LLMs where they add value (planning text, tutoring explanations, quiz generation, RAG answers) and keeps deterministic logic for scoring, routing, and structured outputs.",
+    "where_ai_is_used_effectively": [
+      "Agent routing to choose the right sub-agent behavior for exam/quiz/calendar/weak-topic/recommendation queries.",
+      "LLM-based generation of quiz questions in strict JSON format (with safe fallbacks if parsing fails).",
+      "RAG answer generation via `backend/rag` pipeline for course-relevant tutoring.",
+      "Rubric-judge scoring for benchmark evaluation (relevance/accuracy/actionability/clarity)."
+    ],
+    "controlled_generation": [
+      "Structured JSON outputs for quiz generation.",
+      "Safety guardrails applied in the agent prompt (refusal for final-exam leak requests, safe handling for non-course questions).",
+      "Deterministic planning components and normalization of risk/percentages."
+    ]
+  },
+  "technical_execution": {
+    "architecture_summary": "Next.js frontend + FastAPI backend, with modular routers and a provider abstraction for OpenAI/Anthropic. Retrieval is handled by a ChromaDB-backed RAG layer.",
+    "key_implementation_points": [
+      "Backend routers: phase-based analytics/planning and phase-based quiz/exam endpoints, plus an agents router for chat routing.",
+      "Provider switching via `backend/services/model_gateway.py` (OpenAI/Anthropic abstraction).",
+      "Quiz generation and submission via `backend/routers/phase3.py` with strict-JSON parsing and fallback generation.",
+      "Authenticated endpoints via Clerk JWT verification (`backend/services/auth.py`).",
+      "Benchmark tooling: `benchmarks/live_benchmark.py` runs real executions; `benchmarks/evaluate_agent.py` converts rubric scores to 1..10,000 scale."
+    ],
+    "benchmark_method_reference": {
+      "test_cases_source": "benchmarks/test_cases.json",
+      "rubric_dimensions": [
+        "relevance",
+        "accuracy",
+        "actionability",
+        "clarity"
+      ],
+      "score_normalization": "final_1_to_10000 = round((avg_test_score / 5.0) * 10000)",
+      "latency_scoring": "Latency is measured per test and mapped into the same 1.0–5.0 rubric scale via a fixed latency-to-score mapping."
+    },
+    "real_vs_demo_note": "The benchmark kit now supports a non-dummy path that generates `benchmarks/results_real.json` from live agent executions; baseline Cursor Claude comparison requires supplying real baseline responses in the provided template."
+  },
+  "documentation_clarity": {
+    "readme_coverage": [
+      "System overview, features, and architecture.",
+      "Local setup instructions for backend and frontend.",
+      "API surface description for the key endpoints.",
+      "A dedicated quest requirement compliance section mapping each requirement (1..7).",
+      "Environment variable guidance and troubleshooting."
+    ],
+    "supporting_docs": [
+      "Architecture docs under `docs/` (system architecture, API architecture, multi-agent workflow).",
+      "Benchmark docs and scripts under `benchmarks/` (including live benchmark runner and evaluation formula)."
+    ],
+    "clarity_goal": "Make it easy for reviewers to run, understand specialization, and verify evaluation methodology without reading the full codebase."
+  },
+  "security_awareness": {
+    "secret_handling": [
+      "Secrets are stored in environment files (`.env` and `frontend/.env.local`) and are referenced via environment variables at runtime.",
+      "Repository publishing is protected by `.gitignore` entries that exclude `.env` and frontend env files and ignore build artifacts."
+    ],
+    "no_secrets_committed": "Sensitive values should not be committed to the repo. `.env.example` contains placeholders only.",
+    "runtime_guardrails": [
+      "Agent prompt includes safety constraints (no definitive financial/legal/medical advice, refusal for final-exam leak requests, safe handling of non-course questions, and privacy-aligned behavior)."
+    ],
+    "verification_steps_for_submission": [
+      "Run a final secret scan before publishing.",
+      "Ensure `.env` and `frontend/.env.local` are not included in the submitted package/public repo.",
+      "Verify commit history does not contain real keys."
+    ]
+  }
+}

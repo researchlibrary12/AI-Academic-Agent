@@ -1,0 +1,50 @@
+[
+  {
+    "id": "T1",
+    "query": "I have an exam in Linear Algebra next week. Create a 5-day revision plan.",
+    "target_agent": "exam_preparation_agent",
+    "dimensions": {
+      "relevance": 0.25,
+      "accuracy": 0.25,
+      "actionability": 0.25,
+      "clarity": 0.15,
+      "latency": 0.10
+    }
+  },
+  {
+    "id": "T2",
+    "query": "I am weak in derivatives. Explain in simple steps with one example.",
+    "target_agent": "performance_analysis_agent",
+    "dimensions": {
+      "relevance": 0.20,
+      "accuracy": 0.30,
+      "actionability": 0.20,
+      "clarity": 0.20,
+      "latency": 0.10
+    }
+  },
+  {
+    "id": "T3",
+    "query": "Generate a 10-question quiz for database normalization.",
+    "target_agent": "quiz_generation_agent",
+    "dimensions": {
+      "relevance": 0.20,
+      "accuracy": 0.30,
+      "actionability": 0.25,
+      "clarity": 0.15,
+      "latency": 0.10
+    }
+  },
+  {
+    "id": "T4",
+    "query": "List this week's deadlines and build a study schedule around them.",
+    "target_agent": "academic_calendar_agent",
+    "dimensions": {
+      "relevance": 0.25,
+      "accuracy": 0.20,
+      "actionability": 0.30,
+      "clarity": 0.15,
+      "latency": 0.10
+    }
+  }
+]

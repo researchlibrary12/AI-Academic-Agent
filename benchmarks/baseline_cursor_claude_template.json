@@ -1,0 +1,24 @@
+{
+  "cursor_default_claude": [
+    {
+      "test_id": "T1",
+      "latency_ms": 2500,
+      "response": "PASTE default Cursor Claude response for T1 here."
+    },
+    {
+      "test_id": "T2",
+      "latency_ms": 2500,
+      "response": "PASTE default Cursor Claude response for T2 here."
+    },
+    {
+      "test_id": "T3",
+      "latency_ms": 2500,
+      "response": "PASTE default Cursor Claude response for T3 here."
+    },
+    {
+      "test_id": "T4",
+      "latency_ms": 2500,
+      "response": "PASTE default Cursor Claude response for T4 here."
+    }
+  ]
+}

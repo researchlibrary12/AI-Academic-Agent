@@ -1,0 +1,70 @@
+{
+  "must_academic_agent": [
+    {
+      "test_id": "T1",
+      "relevance": 4.4,
+      "accuracy": 4.3,
+      "actionability": 4.6,
+      "clarity": 4.5,
+      "latency": 4.2
+    },
+    {
+      "test_id": "T2",
+      "relevance": 4.3,
+      "accuracy": 4.4,
+      "actionability": 4.2,
+      "clarity": 4.6,
+      "latency": 4.1
+    },
+    {
+      "test_id": "T3",
+      "relevance": 4.5,
+      "accuracy": 4.2,
+      "actionability": 4.4,
+      "clarity": 4.3,
+      "latency": 4.0
+    },
+    {
+      "test_id": "T4",
+      "relevance": 4.2,
+      "accuracy": 4.1,
+      "actionability": 4.5,
+      "clarity": 4.2,
+      "latency": 4.0
+    }
+  ],
+  "cursor_default_claude": [
+    {
+      "test_id": "T1",
+      "relevance": 3.8,
+      "accuracy": 4.0,
+      "actionability": 3.7,
+      "clarity": 4.1,
+      "latency": 4.3
+    },
+    {
+      "test_id": "T2",
+      "relevance": 3.9,
+      "accuracy": 3.8,
+      "actionability": 3.6,
+      "clarity": 4.0,
+      "latency": 4.3
+    },
+    {
+      "test_id": "T3",
+      "relevance": 3.7,
+      "accuracy": 3.9,
+      "actionability": 3.8,
+      "clarity": 3.9,
+      "latency": 4.2
+    },
+    {
+      "test_id": "T4",
+      "relevance": 3.6,
+      "accuracy": 3.7,
+      "actionability": 3.8,
+      "clarity": 3.9,
+      "latency": 4.2
+    }
+  ]
+}

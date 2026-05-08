@@ -1,0 +1,19 @@
+openapi: 3.1.0
+info:
+  title: AI Academic Agent API
+  version: 0.1.0
+servers:
+  - url: http://localhost:8000/api/v1
+paths:
+  /rag/query:
+    post:
+      summary: Query RAG system
+  /documents/upload:
+    post:
+      summary: Upload and index document
+  /analytics/weak-topics:
+    post:
+      summary: Detect weak topics from marks
+  /agents/route:
+    post:
+      summary: Route request to specialist agent

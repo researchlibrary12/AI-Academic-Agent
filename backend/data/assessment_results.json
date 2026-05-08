@@ -1,0 +1,2162 @@
+[
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Data Structures",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Arrays",
+    "score": 64,
+    "max_score": 100,
+    "assessment_date": "2026-03-20"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Data Structures",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Arrays",
+    "score": 92,
+    "max_score": 100,
+    "assessment_date": "2026-04-16"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Data Structures",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Arrays",
+    "score": 61,
+    "max_score": 100,
+    "assessment_date": "2026-06-22"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Data Structures",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Linked Lists",
+    "score": 61,
+    "max_score": 100,
+    "assessment_date": "2026-05-27"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Data Structures",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Linked Lists",
+    "score": 75,
+    "max_score": 100,
+    "assessment_date": "2026-04-11"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Data Structures",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Linked Lists",
+    "score": 56,
+    "max_score": 100,
+    "assessment_date": "2026-01-12"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Data Structures",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Trees",
+    "score": 47,
+    "max_score": 100,
+    "assessment_date": "2026-01-17"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Data Structures",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Trees",
+    "score": 35,
+    "max_score": 100,
+    "assessment_date": "2026-04-26"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Data Structures",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Trees",
+    "score": 47,
+    "max_score": 100,
+    "assessment_date": "2026-04-12"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Data Structures",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Graphs",
+    "score": 63,
+    "max_score": 100,
+    "assessment_date": "2026-03-23"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Data Structures",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Graphs",
+    "score": 70,
+    "max_score": 100,
+    "assessment_date": "2026-05-23"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Data Structures",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Graphs",
+    "score": 52,
+    "max_score": 100,
+    "assessment_date": "2026-05-18"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Databases",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Normalization",
+    "score": 59,
+    "max_score": 100,
+    "assessment_date": "2026-06-15"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Databases",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Normalization",
+    "score": 77,
+    "max_score": 100,
+    "assessment_date": "2026-03-28"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Databases",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Normalization",
+    "score": 68,
+    "max_score": 100,
+    "assessment_date": "2026-06-25"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Databases",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "SQL Joins",
+    "score": 40,
+    "max_score": 100,
+    "assessment_date": "2026-06-10"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Databases",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "SQL Joins",
+    "score": 52,
+    "max_score": 100,
+    "assessment_date": "2026-01-19"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Databases",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "SQL Joins",
+    "score": 48,
+    "max_score": 100,
+    "assessment_date": "2026-04-26"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Databases",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Transactions",
+    "score": 56,
+    "max_score": 100,
+    "assessment_date": "2026-03-12"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Databases",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Transactions",
+    "score": 61,
+    "max_score": 100,
+    "assessment_date": "2026-01-13"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Databases",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Transactions",
+    "score": 40,
+    "max_score": 100,
+    "assessment_date": "2026-03-27"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Databases",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Indexing",
+    "score": 61,
+    "max_score": 100,
+    "assessment_date": "2026-05-18"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Databases",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Indexing",
+    "score": 41,
+    "max_score": 100,
+    "assessment_date": "2026-06-28"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Databases",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Indexing",
+    "score": 46,
+    "max_score": 100,
+    "assessment_date": "2026-01-14"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Algorithms",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Sorting",
+    "score": 25,
+    "max_score": 100,
+    "assessment_date": "2026-06-23"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Algorithms",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Sorting",
+    "score": 61,
+    "max_score": 100,
+    "assessment_date": "2026-02-19"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Algorithms",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Sorting",
+    "score": 54,
+    "max_score": 100,
+    "assessment_date": "2026-06-27"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Algorithms",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Greedy",
+    "score": 73,
+    "max_score": 100,
+    "assessment_date": "2026-04-12"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Algorithms",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Greedy",
+    "score": 55,
+    "max_score": 100,
+    "assessment_date": "2026-01-13"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Algorithms",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Greedy",
+    "score": 46,
+    "max_score": 100,
+    "assessment_date": "2026-03-20"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Algorithms",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Dynamic Programming",
+    "score": 49,
+    "max_score": 100,
+    "assessment_date": "2026-05-10"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Algorithms",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Dynamic Programming",
+    "score": 70,
+    "max_score": 100,
+    "assessment_date": "2026-03-18"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Algorithms",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Dynamic Programming",
+    "score": 71,
+    "max_score": 100,
+    "assessment_date": "2026-01-17"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Algorithms",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Complexity",
+    "score": 60,
+    "max_score": 100,
+    "assessment_date": "2026-04-28"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Algorithms",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Complexity",
+    "score": 87,
+    "max_score": 100,
+    "assessment_date": "2026-04-13"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Algorithms",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Complexity",
+    "score": 58,
+    "max_score": 100,
+    "assessment_date": "2026-02-18"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Calculus",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Limits",
+    "score": 64,
+    "max_score": 100,
+    "assessment_date": "2026-03-10"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Calculus",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Limits",
+    "score": 62,
+    "max_score": 100,
+    "assessment_date": "2026-02-16"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Calculus",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Limits",
+    "score": 71,
+    "max_score": 100,
+    "assessment_date": "2026-02-26"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Calculus",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Derivatives",
+    "score": 43,
+    "max_score": 100,
+    "assessment_date": "2026-05-27"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Calculus",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Derivatives",
+    "score": 73,
+    "max_score": 100,
+    "assessment_date": "2026-02-26"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Calculus",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Derivatives",
+    "score": 61,
+    "max_score": 100,
+    "assessment_date": "2026-02-27"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Calculus",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Integrals",
+    "score": 64,
+    "max_score": 100,
+    "assessment_date": "2026-05-14"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Calculus",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Integrals",
+    "score": 78,
+    "max_score": 100,
+    "assessment_date": "2026-04-25"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Calculus",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Integrals",
+    "score": 70,
+    "max_score": 100,
+    "assessment_date": "2026-05-16"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Calculus",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Series",
+    "score": 62,
+    "max_score": 100,
+    "assessment_date": "2026-04-17"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Calculus",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Series",
+    "score": 53,
+    "max_score": 100,
+    "assessment_date": "2026-04-27"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Calculus",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Series",
+    "score": 54,
+    "max_score": 100,
+    "assessment_date": "2026-01-23"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Operating Systems",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Processes",
+    "score": 70,
+    "max_score": 100,
+    "assessment_date": "2026-01-21"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Operating Systems",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Processes",
+    "score": 75,
+    "max_score": 100,
+    "assessment_date": "2026-01-21"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Operating Systems",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Processes",
+    "score": 55,
+    "max_score": 100,
+    "assessment_date": "2026-04-17"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Operating Systems",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Threads",
+    "score": 76,
+    "max_score": 100,
+    "assessment_date": "2026-02-25"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Operating Systems",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Threads",
+    "score": 48,
+    "max_score": 100,
+    "assessment_date": "2026-06-16"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Operating Systems",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Threads",
+    "score": 59,
+    "max_score": 100,
+    "assessment_date": "2026-06-24"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Operating Systems",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Scheduling",
+    "score": 61,
+    "max_score": 100,
+    "assessment_date": "2026-01-11"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Operating Systems",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Scheduling",
+    "score": 47,
+    "max_score": 100,
+    "assessment_date": "2026-03-10"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Operating Systems",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Scheduling",
+    "score": 47,
+    "max_score": 100,
+    "assessment_date": "2026-04-15"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Operating Systems",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Memory",
+    "score": 57,
+    "max_score": 100,
+    "assessment_date": "2026-01-27"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Operating Systems",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Memory",
+    "score": 45,
+    "max_score": 100,
+    "assessment_date": "2026-01-28"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Operating Systems",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Memory",
+    "score": 53,
+    "max_score": 100,
+    "assessment_date": "2026-01-13"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Networks",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "OSI Model",
+    "score": 66,
+    "max_score": 100,
+    "assessment_date": "2026-06-10"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Networks",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "OSI Model",
+    "score": 55,
+    "max_score": 100,
+    "assessment_date": "2026-03-17"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Networks",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "OSI Model",
+    "score": 68,
+    "max_score": 100,
+    "assessment_date": "2026-01-28"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Networks",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Routing",
+    "score": 50,
+    "max_score": 100,
+    "assessment_date": "2026-02-27"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Networks",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Routing",
+    "score": 43,
+    "max_score": 100,
+    "assessment_date": "2026-03-19"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Networks",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Routing",
+    "score": 55,
+    "max_score": 100,
+    "assessment_date": "2026-01-10"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Networks",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "TCP",
+    "score": 71,
+    "max_score": 100,
+    "assessment_date": "2026-02-27"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Networks",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "TCP",
+    "score": 45,
+    "max_score": 100,
+    "assessment_date": "2026-04-15"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Networks",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "TCP",
+    "score": 57,
+    "max_score": 100,
+    "assessment_date": "2026-01-24"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Networks",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Security",
+    "score": 53,
+    "max_score": 100,
+    "assessment_date": "2026-02-12"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Networks",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Security",
+    "score": 60,
+    "max_score": 100,
+    "assessment_date": "2026-03-23"
+  },
+  {
+    "user_id": "user_3DPGPytGmRroa1Bi2SG2Ac4PM1K",
+    "module": "Networks",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Security",
+    "score": 84,
+    "max_score": 100,
+    "assessment_date": "2026-02-20"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Data Structures",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Arrays",
+    "score": 62,
+    "max_score": 100,
+    "assessment_date": "2026-05-10"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Data Structures",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Arrays",
+    "score": 51,
+    "max_score": 100,
+    "assessment_date": "2026-04-25"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Data Structures",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Arrays",
+    "score": 46,
+    "max_score": 100,
+    "assessment_date": "2026-06-13"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Data Structures",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Linked Lists",
+    "score": 20,
+    "max_score": 100,
+    "assessment_date": "2026-04-16"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Data Structures",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Linked Lists",
+    "score": 80,
+    "max_score": 100,
+    "assessment_date": "2026-03-13"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Data Structures",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Linked Lists",
+    "score": 53,
+    "max_score": 100,
+    "assessment_date": "2026-01-13"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Data Structures",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Trees",
+    "score": 59,
+    "max_score": 100,
+    "assessment_date": "2026-03-26"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Data Structures",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Trees",
+    "score": 59,
+    "max_score": 100,
+    "assessment_date": "2026-02-10"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Data Structures",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Trees",
+    "score": 50,
+    "max_score": 100,
+    "assessment_date": "2026-03-15"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Data Structures",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Graphs",
+    "score": 57,
+    "max_score": 100,
+    "assessment_date": "2026-06-13"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Data Structures",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Graphs",
+    "score": 66,
+    "max_score": 100,
+    "assessment_date": "2026-05-21"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Data Structures",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Graphs",
+    "score": 71,
+    "max_score": 100,
+    "assessment_date": "2026-02-12"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Databases",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Normalization",
+    "score": 40,
+    "max_score": 100,
+    "assessment_date": "2026-04-11"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Databases",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Normalization",
+    "score": 71,
+    "max_score": 100,
+    "assessment_date": "2026-01-24"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Databases",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Normalization",
+    "score": 77,
+    "max_score": 100,
+    "assessment_date": "2026-03-18"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Databases",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "SQL Joins",
+    "score": 77,
+    "max_score": 100,
+    "assessment_date": "2026-06-13"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Databases",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "SQL Joins",
+    "score": 50,
+    "max_score": 100,
+    "assessment_date": "2026-01-11"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Databases",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "SQL Joins",
+    "score": 73,
+    "max_score": 100,
+    "assessment_date": "2026-03-12"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Databases",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Transactions",
+    "score": 61,
+    "max_score": 100,
+    "assessment_date": "2026-03-21"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Databases",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Transactions",
+    "score": 74,
+    "max_score": 100,
+    "assessment_date": "2026-06-28"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Databases",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Transactions",
+    "score": 64,
+    "max_score": 100,
+    "assessment_date": "2026-04-21"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Databases",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Indexing",
+    "score": 45,
+    "max_score": 100,
+    "assessment_date": "2026-04-17"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Databases",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Indexing",
+    "score": 40,
+    "max_score": 100,
+    "assessment_date": "2026-02-11"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Databases",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Indexing",
+    "score": 55,
+    "max_score": 100,
+    "assessment_date": "2026-03-12"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Algorithms",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Sorting",
+    "score": 32,
+    "max_score": 100,
+    "assessment_date": "2026-01-16"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Algorithms",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Sorting",
+    "score": 71,
+    "max_score": 100,
+    "assessment_date": "2026-01-20"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Algorithms",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Sorting",
+    "score": 61,
+    "max_score": 100,
+    "assessment_date": "2026-03-18"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Algorithms",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Greedy",
+    "score": 36,
+    "max_score": 100,
+    "assessment_date": "2026-03-20"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Algorithms",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Greedy",
+    "score": 48,
+    "max_score": 100,
+    "assessment_date": "2026-05-20"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Algorithms",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Greedy",
+    "score": 44,
+    "max_score": 100,
+    "assessment_date": "2026-02-11"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Algorithms",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Dynamic Programming",
+    "score": 86,
+    "max_score": 100,
+    "assessment_date": "2026-04-23"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Algorithms",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Dynamic Programming",
+    "score": 59,
+    "max_score": 100,
+    "assessment_date": "2026-05-24"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Algorithms",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Dynamic Programming",
+    "score": 41,
+    "max_score": 100,
+    "assessment_date": "2026-02-28"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Algorithms",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Complexity",
+    "score": 64,
+    "max_score": 100,
+    "assessment_date": "2026-04-22"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Algorithms",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Complexity",
+    "score": 53,
+    "max_score": 100,
+    "assessment_date": "2026-04-22"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Algorithms",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Complexity",
+    "score": 51,
+    "max_score": 100,
+    "assessment_date": "2026-04-14"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Calculus",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Limits",
+    "score": 32,
+    "max_score": 100,
+    "assessment_date": "2026-02-24"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Calculus",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Limits",
+    "score": 54,
+    "max_score": 100,
+    "assessment_date": "2026-04-26"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Calculus",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Limits",
+    "score": 60,
+    "max_score": 100,
+    "assessment_date": "2026-05-10"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Calculus",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Derivatives",
+    "score": 59,
+    "max_score": 100,
+    "assessment_date": "2026-05-23"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Calculus",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Derivatives",
+    "score": 52,
+    "max_score": 100,
+    "assessment_date": "2026-02-11"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Calculus",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Derivatives",
+    "score": 56,
+    "max_score": 100,
+    "assessment_date": "2026-03-16"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Calculus",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Integrals",
+    "score": 48,
+    "max_score": 100,
+    "assessment_date": "2026-04-17"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Calculus",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Integrals",
+    "score": 83,
+    "max_score": 100,
+    "assessment_date": "2026-06-14"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Calculus",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Integrals",
+    "score": 67,
+    "max_score": 100,
+    "assessment_date": "2026-03-15"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Calculus",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Series",
+    "score": 80,
+    "max_score": 100,
+    "assessment_date": "2026-06-24"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Calculus",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Series",
+    "score": 42,
+    "max_score": 100,
+    "assessment_date": "2026-06-21"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Calculus",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Series",
+    "score": 45,
+    "max_score": 100,
+    "assessment_date": "2026-05-16"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Operating Systems",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Processes",
+    "score": 62,
+    "max_score": 100,
+    "assessment_date": "2026-06-19"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Operating Systems",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Processes",
+    "score": 65,
+    "max_score": 100,
+    "assessment_date": "2026-03-21"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Operating Systems",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Processes",
+    "score": 62,
+    "max_score": 100,
+    "assessment_date": "2026-05-11"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Operating Systems",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Threads",
+    "score": 44,
+    "max_score": 100,
+    "assessment_date": "2026-04-21"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Operating Systems",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Threads",
+    "score": 59,
+    "max_score": 100,
+    "assessment_date": "2026-05-16"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Operating Systems",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Threads",
+    "score": 76,
+    "max_score": 100,
+    "assessment_date": "2026-04-19"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Operating Systems",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Scheduling",
+    "score": 82,
+    "max_score": 100,
+    "assessment_date": "2026-04-17"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Operating Systems",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Scheduling",
+    "score": 47,
+    "max_score": 100,
+    "assessment_date": "2026-05-10"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Operating Systems",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Scheduling",
+    "score": 48,
+    "max_score": 100,
+    "assessment_date": "2026-04-23"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Operating Systems",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Memory",
+    "score": 34,
+    "max_score": 100,
+    "assessment_date": "2026-06-18"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Operating Systems",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Memory",
+    "score": 60,
+    "max_score": 100,
+    "assessment_date": "2026-05-17"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Operating Systems",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Memory",
+    "score": 61,
+    "max_score": 100,
+    "assessment_date": "2026-01-23"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Networks",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "OSI Model",
+    "score": 45,
+    "max_score": 100,
+    "assessment_date": "2026-06-23"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Networks",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "OSI Model",
+    "score": 60,
+    "max_score": 100,
+    "assessment_date": "2026-01-21"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Networks",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "OSI Model",
+    "score": 64,
+    "max_score": 100,
+    "assessment_date": "2026-04-22"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Networks",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Routing",
+    "score": 63,
+    "max_score": 100,
+    "assessment_date": "2026-05-14"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Networks",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Routing",
+    "score": 72,
+    "max_score": 100,
+    "assessment_date": "2026-03-24"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Networks",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Routing",
+    "score": 39,
+    "max_score": 100,
+    "assessment_date": "2026-02-27"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Networks",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "TCP",
+    "score": 66,
+    "max_score": 100,
+    "assessment_date": "2026-03-28"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Networks",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "TCP",
+    "score": 50,
+    "max_score": 100,
+    "assessment_date": "2026-04-27"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Networks",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "TCP",
+    "score": 56,
+    "max_score": 100,
+    "assessment_date": "2026-04-11"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Networks",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Security",
+    "score": 65,
+    "max_score": 100,
+    "assessment_date": "2026-02-24"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Networks",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Security",
+    "score": 66,
+    "max_score": 100,
+    "assessment_date": "2026-04-15"
+  },
+  {
+    "user_id": "user_3DRLYHYjTc36WUdcjnEaWRsRKbm",
+    "module": "Networks",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Security",
+    "score": 58,
+    "max_score": 100,
+    "assessment_date": "2026-04-25"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Data Structures",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Arrays",
+    "score": 80,
+    "max_score": 100,
+    "assessment_date": "2026-06-19"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Data Structures",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Arrays",
+    "score": 83,
+    "max_score": 100,
+    "assessment_date": "2026-01-14"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Data Structures",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Arrays",
+    "score": 56,
+    "max_score": 100,
+    "assessment_date": "2026-06-22"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Data Structures",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Linked Lists",
+    "score": 44,
+    "max_score": 100,
+    "assessment_date": "2026-06-28"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Data Structures",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Linked Lists",
+    "score": 73,
+    "max_score": 100,
+    "assessment_date": "2026-01-17"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Data Structures",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Linked Lists",
+    "score": 89,
+    "max_score": 100,
+    "assessment_date": "2026-05-16"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Data Structures",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Trees",
+    "score": 33,
+    "max_score": 100,
+    "assessment_date": "2026-02-19"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Data Structures",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Trees",
+    "score": 79,
+    "max_score": 100,
+    "assessment_date": "2026-04-11"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Data Structures",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Trees",
+    "score": 73,
+    "max_score": 100,
+    "assessment_date": "2026-02-19"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Data Structures",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Graphs",
+    "score": 53,
+    "max_score": 100,
+    "assessment_date": "2026-01-13"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Data Structures",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Graphs",
+    "score": 66,
+    "max_score": 100,
+    "assessment_date": "2026-05-25"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Data Structures",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Graphs",
+    "score": 69,
+    "max_score": 100,
+    "assessment_date": "2026-06-21"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Databases",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Normalization",
+    "score": 71,
+    "max_score": 100,
+    "assessment_date": "2026-06-16"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Databases",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Normalization",
+    "score": 37,
+    "max_score": 100,
+    "assessment_date": "2026-04-10"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Databases",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Normalization",
+    "score": 53,
+    "max_score": 100,
+    "assessment_date": "2026-03-24"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Databases",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "SQL Joins",
+    "score": 65,
+    "max_score": 100,
+    "assessment_date": "2026-01-19"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Databases",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "SQL Joins",
+    "score": 59,
+    "max_score": 100,
+    "assessment_date": "2026-06-27"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Databases",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "SQL Joins",
+    "score": 71,
+    "max_score": 100,
+    "assessment_date": "2026-03-18"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Databases",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Transactions",
+    "score": 77,
+    "max_score": 100,
+    "assessment_date": "2026-04-22"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Databases",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Transactions",
+    "score": 65,
+    "max_score": 100,
+    "assessment_date": "2026-06-19"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Databases",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Transactions",
+    "score": 20,
+    "max_score": 100,
+    "assessment_date": "2026-02-23"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Databases",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Indexing",
+    "score": 80,
+    "max_score": 100,
+    "assessment_date": "2026-05-15"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Databases",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Indexing",
+    "score": 53,
+    "max_score": 100,
+    "assessment_date": "2026-01-27"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Databases",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Indexing",
+    "score": 46,
+    "max_score": 100,
+    "assessment_date": "2026-03-23"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Algorithms",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Sorting",
+    "score": 94,
+    "max_score": 100,
+    "assessment_date": "2026-03-27"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Algorithms",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Sorting",
+    "score": 60,
+    "max_score": 100,
+    "assessment_date": "2026-01-28"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Algorithms",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Sorting",
+    "score": 68,
+    "max_score": 100,
+    "assessment_date": "2026-03-12"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Algorithms",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Greedy",
+    "score": 42,
+    "max_score": 100,
+    "assessment_date": "2026-04-23"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Algorithms",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Greedy",
+    "score": 49,
+    "max_score": 100,
+    "assessment_date": "2026-03-21"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Algorithms",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Greedy",
+    "score": 39,
+    "max_score": 100,
+    "assessment_date": "2026-06-11"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Algorithms",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Dynamic Programming",
+    "score": 77,
+    "max_score": 100,
+    "assessment_date": "2026-05-27"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Algorithms",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Dynamic Programming",
+    "score": 53,
+    "max_score": 100,
+    "assessment_date": "2026-01-10"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Algorithms",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Dynamic Programming",
+    "score": 44,
+    "max_score": 100,
+    "assessment_date": "2026-06-11"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Algorithms",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Complexity",
+    "score": 70,
+    "max_score": 100,
+    "assessment_date": "2026-04-24"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Algorithms",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Complexity",
+    "score": 51,
+    "max_score": 100,
+    "assessment_date": "2026-04-28"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Algorithms",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Complexity",
+    "score": 87,
+    "max_score": 100,
+    "assessment_date": "2026-03-20"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Calculus",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Limits",
+    "score": 44,
+    "max_score": 100,
+    "assessment_date": "2026-02-19"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Calculus",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Limits",
+    "score": 65,
+    "max_score": 100,
+    "assessment_date": "2026-06-22"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Calculus",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Limits",
+    "score": 54,
+    "max_score": 100,
+    "assessment_date": "2026-02-22"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Calculus",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Derivatives",
+    "score": 21,
+    "max_score": 100,
+    "assessment_date": "2026-05-10"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Calculus",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Derivatives",
+    "score": 72,
+    "max_score": 100,
+    "assessment_date": "2026-02-26"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Calculus",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Derivatives",
+    "score": 44,
+    "max_score": 100,
+    "assessment_date": "2026-04-27"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Calculus",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Integrals",
+    "score": 60,
+    "max_score": 100,
+    "assessment_date": "2026-06-20"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Calculus",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Integrals",
+    "score": 60,
+    "max_score": 100,
+    "assessment_date": "2026-06-14"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Calculus",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Integrals",
+    "score": 58,
+    "max_score": 100,
+    "assessment_date": "2026-03-22"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Calculus",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Series",
+    "score": 78,
+    "max_score": 100,
+    "assessment_date": "2026-06-15"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Calculus",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Series",
+    "score": 63,
+    "max_score": 100,
+    "assessment_date": "2026-01-14"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Calculus",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Series",
+    "score": 63,
+    "max_score": 100,
+    "assessment_date": "2026-01-19"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Operating Systems",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "Processes",
+    "score": 91,
+    "max_score": 100,
+    "assessment_date": "2026-04-13"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Operating Systems",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "Processes",
+    "score": 49,
+    "max_score": 100,
+    "assessment_date": "2026-02-10"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Operating Systems",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "Processes",
+    "score": 82,
+    "max_score": 100,
+    "assessment_date": "2026-06-24"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Operating Systems",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Threads",
+    "score": 51,
+    "max_score": 100,
+    "assessment_date": "2026-06-10"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Operating Systems",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Threads",
+    "score": 75,
+    "max_score": 100,
+    "assessment_date": "2026-04-25"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Operating Systems",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Threads",
+    "score": 71,
+    "max_score": 100,
+    "assessment_date": "2026-03-15"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Operating Systems",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "Scheduling",
+    "score": 53,
+    "max_score": 100,
+    "assessment_date": "2026-01-13"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Operating Systems",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "Scheduling",
+    "score": 73,
+    "max_score": 100,
+    "assessment_date": "2026-02-13"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Operating Systems",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "Scheduling",
+    "score": 70,
+    "max_score": 100,
+    "assessment_date": "2026-04-22"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Operating Systems",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Memory",
+    "score": 47,
+    "max_score": 100,
+    "assessment_date": "2026-02-18"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Operating Systems",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Memory",
+    "score": 68,
+    "max_score": 100,
+    "assessment_date": "2026-01-23"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Operating Systems",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Memory",
+    "score": 58,
+    "max_score": 100,
+    "assessment_date": "2026-04-14"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Networks",
+    "assessment_type": "test",
+    "assessment_name": "Test 1",
+    "topic": "OSI Model",
+    "score": 94,
+    "max_score": 100,
+    "assessment_date": "2026-05-24"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Networks",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 1",
+    "topic": "OSI Model",
+    "score": 70,
+    "max_score": 100,
+    "assessment_date": "2026-06-25"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Networks",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 1",
+    "topic": "OSI Model",
+    "score": 47,
+    "max_score": 100,
+    "assessment_date": "2026-03-22"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Networks",
+    "assessment_type": "test",
+    "assessment_name": "Test 2",
+    "topic": "Routing",
+    "score": 78,
+    "max_score": 100,
+    "assessment_date": "2026-02-16"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Networks",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 2",
+    "topic": "Routing",
+    "score": 57,
+    "max_score": 100,
+    "assessment_date": "2026-02-24"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Networks",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 2",
+    "topic": "Routing",
+    "score": 71,
+    "max_score": 100,
+    "assessment_date": "2026-06-23"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Networks",
+    "assessment_type": "test",
+    "assessment_name": "Test 3",
+    "topic": "TCP",
+    "score": 68,
+    "max_score": 100,
+    "assessment_date": "2026-06-21"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Networks",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 3",
+    "topic": "TCP",
+    "score": 82,
+    "max_score": 100,
+    "assessment_date": "2026-04-28"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Networks",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 3",
+    "topic": "TCP",
+    "score": 54,
+    "max_score": 100,
+    "assessment_date": "2026-04-23"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Networks",
+    "assessment_type": "test",
+    "assessment_name": "Test 4",
+    "topic": "Security",
+    "score": 59,
+    "max_score": 100,
+    "assessment_date": "2026-03-13"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Networks",
+    "assessment_type": "exam",
+    "assessment_name": "Exam 4",
+    "topic": "Security",
+    "score": 49,
+    "max_score": 100,
+    "assessment_date": "2026-05-20"
+  },
+  {
+    "user_id": "user_3DRTcalhzVNJFi7CVGSzfLohBQJ",
+    "module": "Networks",
+    "assessment_type": "assignment",
+    "assessment_name": "Assignment 4",
+    "topic": "Security",
+    "score": 44,
+    "max_score": 100,
+    "assessment_date": "2026-03-12"
+  }
+]
