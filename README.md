@@ -365,7 +365,7 @@ Documentation coverage:
 
 ---
 
-## Troubleshooting
+## Troubleshooting of tool
 
 - `Missing publishableKey/secretKey`:
   - ensure values exist in `frontend/.env.local`
